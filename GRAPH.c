@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 int a[10][10], n, u,v, i, j, source;
-int visited[10];
+int visited[10]; 
 
 void create()
 {
